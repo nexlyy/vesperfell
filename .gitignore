@@ -1,0 +1,14 @@
+# build output and release packages
+build/
+dist/
+*.zip
+
+# what the game writes next to itself when you play
+save/
+settings.ini
+graphics.log
+crash.log
+
+# local tooling
+.vs/
+.vscode/
